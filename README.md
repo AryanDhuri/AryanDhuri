@@ -37,6 +37,7 @@ I’m a first-year BCA student at **NITTE Institute of Professional Education**.
 Feel free to check out my repositories, contribute to my projects, or drop me a message. I’m always open to new ideas and collaborations. 
 
 -->
+# 👋 Hello, I'm Aryan Dhuri!
 <img src="https://raw.githubusercontent.com/AryanDhuri/AryanDhuri/main/intro.gif" alt="👋 Hi there! I'm Aryan" title="👋 Hi there! I'm Aryan"/>
 <div align="justify">
 
@@ -116,6 +117,22 @@ Welcome to my GitHub Page! I'm Aryan Dhuri, a passionate Computer Science studen
 
 ## Connect With Me 🤝
 <a href="mailto:aryandhuri@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+# Aryan Dhuri
+
+## GitHub Stats 📊
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Aryan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=aryandhuri&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Aryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryandhuri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
+    </a>
+  <br/>
+</details>
 
 ---
 
