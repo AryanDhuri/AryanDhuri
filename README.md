@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 # 👋 Hello, I'm Aryan Dhuri!
@@ -36,3 +36,87 @@ I’m a first-year BCA student at **NITTE Institute of Professional Education**.
 ## 🔗 Let's Connect!
 Feel free to check out my repositories, contribute to my projects, or drop me a message. I’m always open to new ideas and collaborations. 
 
+-->
+<img src="https://raw.githubusercontent.com/AryanDhuri/AryanDhuri/main/intro.gif" alt="👋 Hi there! I'm Aryan" title="👋 Hi there! I'm Aryan"/>
+<div align="justify">
+
+<a href="https://www.instagram.com/aryandhuri/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@aryandhuri">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.twitter.com/aryandhuri/">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aryandhuri/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/aryandhuri/">
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+</div>
+
+## About Me 🚀
+<p align="justify">
+Welcome to my GitHub Page! I'm Aryan Dhuri, a passionate Computer Science student with a love for coding and problem-solving. I thrive on learning new technologies and sharing knowledge with the community. My journey in programming started years ago, and I have since worked with various languages, frameworks, and tools to build exciting projects.
+</p>
+
+## My Tech Stack 💻
+
+> Technologies and tools I work with and am passionate about:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+## GitHub Stats 📊
+<details>
+  <summary>My GitHub Profile Stats 🚀</summary>
+  <br/>
+  <img alt="Aryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=AryanDhuri&show_icons=true&count_private=true&theme=radical" height="192px"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanDhuri&langs_count=8&layout=compact&theme=radical" height="192px"/>
+</details>
+
+## Activity Graph 📈
+![Aryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AryanDhuri&theme=react-dark)
+
+## GitHub Profile Trophy 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=AryanDhuri&row=1&margin-w=40&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Connect With Me 🤝
+<a href="mailto:aryandhuri@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+---
+
+<p align="center">Thanks for visiting my profile! 🚀✨</p>
