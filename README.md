@@ -67,7 +67,7 @@ Feel free to check out my repositories, contribute to my projects, or drop me a 
 <p align="justify">
 Welcome to my GitHub Page! I'm Aryan Dhuri, a passionate Computer Science student with a love for coding and problem-solving. I thrive on learning new technologies and sharing knowledge with the community. My journey in programming started years ago, and I have since worked with various languages, frameworks, and tools to build exciting projects.
 </p>
-
+<!--
 ## My Tech Stack 💻
 
 > Technologies and tools I work with and am passionate about:
@@ -97,6 +97,47 @@ Welcome to my GitHub Page! I'm Aryan Dhuri, a passionate Computer Science studen
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
+    </td>
+  </tr>
+</table>
+-->
+# Technologies and Tools I Work With and Am Passionate About:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Canva_Logo.svg" alt="Canva" width="65" height="65" />
+      <br>Canva
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" />
+      <br>Google Cloud
     </td>
   </tr>
 </table>
