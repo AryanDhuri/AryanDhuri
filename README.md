@@ -68,9 +68,10 @@ Feel free to check out my repositories, contribute to my projects, or drop me a 
 Welcome to my GitHub Page! I'm Aryan Dhuri, a passionate Computer Science student with a love for coding and problem-solving. I thrive on learning new technologies and sharing knowledge with the community. My journey in programming started years ago, and I have since worked with various languages, frameworks, and tools to build exciting projects.
 </p>
 <!--
+
 ## My Tech Stack 💻
 
-> Technologies and tools I work with and am passionate about:
+## Technologies and tools I work with and am passionate about:
 
 <table>
   <tr>
