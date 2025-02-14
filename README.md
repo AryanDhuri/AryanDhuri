@@ -114,18 +114,12 @@ Welcome to my GitHub Page! I'm Aryan Dhuri, a passionate Computer Science studen
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Canva_Logo.svg" alt="Canva" width="65" height="65" />
-      <br>Canva
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
@@ -141,6 +135,8 @@ Welcome to my GitHub Page! I'm Aryan Dhuri, a passionate Computer Science studen
     </td>
   </tr>
 </table>
+
+
 
 ## GitHub Stats 📊
 <details>
