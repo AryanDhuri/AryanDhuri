@@ -138,7 +138,7 @@ Welcome to my GitHub Page! I'm Aryan Dhuri, a passionate Computer Science studen
 </table>
 
 
-
+<!--
 ## GitHub Stats 📊
 <details>
   <summary>My GitHub Profile Stats 🚀</summary>
@@ -146,7 +146,7 @@ Welcome to my GitHub Page! I'm Aryan Dhuri, a passionate Computer Science studen
   <img alt="Aryan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=AryanDhuri&show_icons=true&count_private=true&theme=radical" height="192px"/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanDhuri&langs_count=8&layout=compact&theme=radical" height="192px"/>
 </details>
-
+-->
 ## Activity Graph 📈
 ![Aryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AryanDhuri&theme=react-dark)
 
