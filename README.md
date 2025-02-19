@@ -1,4 +1,4 @@
-![Hi, I'm Aryan](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E676&width=500&lines=Hi%2C+I'm+Aryan!;Welcome+to+my+GitHub+Profile!;Exploring+Cloud+Computing+and+Coding!)
+![Hi, I'm Aryan](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E676&width=500&lines=Hi%2C+I'm+Aryan!;Welcome+to+my+GitHub+Profile!)
 
 
 I’m a **BCA student** passionate about **Cloud Computing, Java, and C Programming**. Always eager to learn and explore new technologies, I aspire to become a **Cloud Engineer** in the future. 🚀
