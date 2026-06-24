@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=500&lines=Hi%2C+I'm+Aryan!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 
-I’m a **BCA student** passionate about **Cloud Computing, Java, and C Programming**. Always eager to learn and explore new technologies, I aspire to become a **Cloud Engineer** in the future. 🚀
+I’m a **BCA student** passionate about **Cloud Computing, Java, and C Programming**. Always eager to learn and explore new technologies, I aspire to become a **Cloud Engineer** in the future. 
 
 ## Education
 - **BCA (Bachelor of Computer Applications)** - NITTE Institute of Professional Education
