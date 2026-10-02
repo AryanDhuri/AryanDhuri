@@ -22,11 +22,11 @@ I'm a **BCA student** passionate about **Cloud Computing, Java, and C Programmin
 
 <img align="right" width="120" src="https://raw.githubusercontent.com/AryanDhuri/AryanDhuri/main/assets/flame_icon.png" alt="flame"/>
 
-**[PROJECT ONE]** — One-line description of what it does, written with a bit of attitude.
+**[☁️ Static Portfolio Website](https://github.com/AryanDhuri)** — Hosted on AWS S3 + CloudFront, because my portfolio deserves a global CDN and HTTPS like a Fortune 500 company.
 
-**[PROJECT TWO]** — One-line description of what it does, written with a bit of attitude.
+**[⚡ Serverless URL Shortener](https://github.com/AryanDhuri)** — Built with Lambda, API Gateway & DynamoDB — shortens URLs with zero servers, because why manage infrastructure when AWS can panic for you.
 
-**[PROJECT THREE]** — One-line description of what it does, written with a bit of attitude.
+**[🗒️ Three-Tier Notes App](https://github.com/AryanDhuri)** — Production-grade EC2 + RDS MySQL + Flask API inside a custom VPC, with Auto Scaling & CloudWatch — it scales itself, unlike my sleep schedule.
 
 <br clear="right"/>
 
